@@ -1,7 +1,7 @@
 # cloudflare-dyndns
 A short script for updating Cloudflare DNS entries using their api.
 
-This script uses the public Cloudflare API to update EXISTING A entries with your current public ip.
+This script uses the public Cloudflare API to update EXISTING A entries with your current public IP.
 It basically allows you to use the cloudflare DNS System as an alternative to existing Dyndns providers like dyndns.org or noip.com.
 
 You have to insert the E-Mail Address of your cloudflare Account, your Global API Key and the Full Domain you want to update.
