@@ -7,9 +7,9 @@ It basically allows you to use the cloudflare DNS System as an alternative to ex
 You have to insert the E-Mail Address of your cloudflare Account, your Global API Key and the Full Domain you want to update.
 You also have to make sure that the dns entry (which has to be an A entry) already exists, otherwise the script will fail.
 
-It is also required to have jq installed on your machine.
-You can get it here: https://stedolan.github.io/jq/
-Make sure that the variable JQ points to the jq-linux64 executable and that you have execution rights for jq-linux64.
+<br>It is also required to have jq installed on your machine.
+<br>You can get it here: https://stedolan.github.io/jq/
+<br>Make sure that the variable JQ points to the jq-linux64 executable and that you have execution rights for jq-linux64.
 
 
 
