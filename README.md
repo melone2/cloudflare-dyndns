@@ -13,6 +13,6 @@ A short script for updating Cloudflare DNS entries using their api.
 
 
 
-<br>This is the first ever script i published online and I'm aware that it is neither professionally done nor user friendly in any way.
+<br>This is the first script i published online and I'm aware that it is neither professionally done nor user friendly in any way.
 <br>I was just making my own script because I didn't find anything that suits my needs.
 <br>If you have any suggestions for improvements, please let me know.
